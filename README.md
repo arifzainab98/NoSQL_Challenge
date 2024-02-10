@@ -106,3 +106,5 @@ _id	count
 2	Maidstone	713
 3	Newham	711
 4	Swale	686
+
+I was assisted by AskBCS, and classfellow to complete this challenge
